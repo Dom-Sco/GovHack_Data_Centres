@@ -1,0 +1,3 @@
+  .greyscale-filter .leaflet-tile-container {
+    filter: url(#greyscale-water-filter);
+  }
